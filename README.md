@@ -46,20 +46,22 @@ bash
 Copy code
 git clone https://github.com/seu-usuario/MobileAppChekin.git
 Navegue até o diretório do projeto:
+```
 ```bash
-bash
 Copy code
 cd MobileAppChekin
 Instale as dependências do Flutter:
 ```bash
-bash
+
+```bash
 Copy code
 flutter pub get
 Execute o aplicativo:
-
-bash
+```
+```bash
 Copy code
 flutter run
+```
 Dúvidas? Entre em contato através das minhas redes disponíveis no meu perfil. Este projeto é dedicado exclusivamente ao estudo e aprimoramento do meu portfólio, com o objetivo de demonstrar minhas habilidades no desenvolvimento mobile usando o framework Flutter.
 
 Ressalto que, por se tratar de um projeto educacional, não estou disponibilizando nenhuma API para teste do aplicativo. O código fonte está disponível apenas para fins didáticos, com o intuito de compartilhar conhecimento e boas práticas de programação.
