@@ -9,6 +9,7 @@ O MobileAppChekin é uma aplicação móvel inovadora projetada para otimizar o 
 
 </p>
 <p>
+  <br>
   </p>
 Recursos Principais:
 
