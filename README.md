@@ -42,8 +42,6 @@ Pacotes necessários (verifique o arquivo pubspec.yaml)
 Instalação
 Clone o repositório para sua máquina local:
 ```bash
-bash
-Copy code
 git clone https://github.com/seu-usuario/MobileAppChekin.git
 Navegue até o diretório do projeto:
 ```
