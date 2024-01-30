@@ -1,5 +1,5 @@
 
-  <img align="left" alt="preview" height="480" width="380" src="https://github.com/CrystianEdiezGaldino/MobileAppChekin/blob/main/03.jpg">
+  <img align="left" alt="preview" height="580" width="280" src="https://github.com/CrystianEdiezGaldino/MobileAppChekin/blob/main/03.jpg">
 
 
 
