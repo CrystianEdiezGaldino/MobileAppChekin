@@ -6,7 +6,7 @@ O MobileAppChekin é uma aplicação móvel inovadora projetada para otimizar o 
   <img align="left" alt="preview" height="280" width="220" src="https://github.com/CrystianEdiezGaldino/MobileAppChekin/blob/main/02.jpg">
   <img align="left" alt="preview" height="280" width="220" src="https://github.com/CrystianEdiezGaldino/MobileAppChekin/blob/main/03.jpg">
   <img align="left" alt="preview" height="280" width="220" src="https://github.com/CrystianEdiezGaldino/MobileAppChekin/blob/main/04.jpg">
-  <img align="left" alt="preview" height="280" width="220" src="https://github.com/CrystianEdiezGaldino/MobileAppChekin/blob/main/05.jpg">
+
 </p>
 <p>
   </p>
