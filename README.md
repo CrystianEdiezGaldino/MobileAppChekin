@@ -2,7 +2,7 @@ MobileAppChekin: Simplificando o Check-in e Liberação de Terceiros
 
 O MobileAppChekin é uma aplicação móvel inovadora projetada para otimizar o processo de check-in e liberação de terceiros. Com uma interface intuitiva e recursos robustos, este aplicativo oferece uma solução eficiente e segura para gerenciar acessos.
 
-  <img align="center" alt="preview" height="75" width="75" src="https://github.com/CrystianEdiezGaldino/MobileAppChekin/blob/main/02.jpg">
+  <img align="center" alt="preview" height="180" width="120" src="https://github.com/CrystianEdiezGaldino/MobileAppChekin/blob/main/02.jpg">
 
 
 
