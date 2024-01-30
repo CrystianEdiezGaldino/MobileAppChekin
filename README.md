@@ -51,7 +51,7 @@ Navegue até o diretório do projeto:
 Copy code
 cd MobileAppChekin
 Instale as dependências do Flutter:
-```bash
+
 
 ```bash
 Copy code
