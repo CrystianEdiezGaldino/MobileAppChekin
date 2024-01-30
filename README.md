@@ -11,7 +11,7 @@ O MobileAppChekin é uma aplicação móvel inovadora projetada para otimizar o 
 <p>
   <br>
   </p>
-Recursos Principais:
+- Recursos Principais:
 
 Scanner de Código de Barras e QRCode:
 
