@@ -41,7 +41,7 @@ Flutter SDK (versão >=3.0.5 <4.0.0)
 Pacotes necessários (verifique o arquivo pubspec.yaml)
 Instalação
 Clone o repositório para sua máquina local:
-
+```bash
 bash
 Copy code
 git clone https://github.com/seu-usuario/MobileAppChekin.git
